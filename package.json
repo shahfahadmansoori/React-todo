@@ -17,5 +17,13 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-icons": "^3.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahfahadmansoori/React-todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shahfahadmansoori/React-todo/issues"
+  },
+  "homepage": "https://github.com/shahfahadmansoori/React-todo#readme"
 }
