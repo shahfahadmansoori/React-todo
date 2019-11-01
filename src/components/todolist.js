@@ -1,11 +1,11 @@
 import React from 'react';
-import todolistitem from '../components/todolistitem';
+import  TodoListItem  from '../components/todolistitem';
 
-const todolist = (props) =>  {
-        return ( 
-            <todoconatiner>
-               <todolistitem />
-            </todoconatiner>
-        )
-    
-}
+const TodoList = (props) =>( 
+            <ul>{props.todolist.map(items => {
+                   return <TodoListItem todolistitem={items} deletetodo={props.deletetode}/>
+                 })}
+            </ul>
+            );
+
+export default TodoList;
