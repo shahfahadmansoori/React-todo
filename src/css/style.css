@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Merriweather',
+    serif;
+}
+
+.logo{
+    font-size: 30px;
+    color: #fff;
+    background-color: rgb(31, 31, 77);
+    padding: 50px;
+    text-align: center;
+}
+

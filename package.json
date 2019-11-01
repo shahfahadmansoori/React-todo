@@ -1,0 +1,21 @@
+{
+  "name": "react-101",
+  "version": "1.0.0",
+  "description": "Simple React Todo ",
+  "main": "index.js",
+  "scripts": {
+    "todo": "parcel Public/index.html"
+  },
+  "author": "Shah Fahad Mansoori",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-icons": "^3.8.0"
+  }
+}
