@@ -9,7 +9,7 @@
   "author": "Shah Fahad Mansoori",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "dependencies": {
     "@emotion/core": "^10.0.22",
